@@ -1,5 +1,5 @@
-
 ### Hi there 👋, I'm Joseph Chu. I'm a web developer, studying UI/UX. Welcome to my gh page!<br />
+
 <img src="/images/download.png" />
 
 🔭 _Currently working on_: Composite CSS Framework.
@@ -15,7 +15,9 @@
 📫 _How to reach me_:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 [Email](jchucodes@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Twitter](https://twitter.com/hermit_code)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/joseph-chu/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 😄 _Pronouns_: He/Him <br>

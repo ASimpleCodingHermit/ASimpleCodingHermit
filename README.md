@@ -2,11 +2,11 @@
 ### Hi there 👋, I'm Joseph Chu. I'm a web developer, studying UI/UX. Welcome to my gh page!<br />
 <img src="/images/download.png" />
 
-🔭 I’m currently working on Composite CSS Framework.
+🔭 _Currently working on_: Composite CSS Framework.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-🌱 I’m currently learning UI/UX, ReactJS.
+🌱 _Currently learning_: UI/UX, ReactJS.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-👯 I’m looking to collaborate on Front End projects.
+👯 _Looking to collaborate on_: Front End projects.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 🤔 _Looking for help_: ExpressJS and to find my first Front End Developer Job.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
@@ -18,9 +18,9 @@
 [Twitter](https://twitter.com/hermit_code)
 [LinkedIn](https://www.linkedin.com/in/joseph-chu/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-😄 Pronouns: He/Him <br>
+😄 _Pronouns_: He/Him <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-⚡ Fun fact:<br>
+⚡ _Fun fact_:<br>
 🖉 I'm also an artist that does 2D and 3D art.
 
 <!--

@@ -1,4 +1,4 @@
-<img src="/images/unsplash.jpg" />
+<img src="/images/download.png" />
 ### Hi there 👋, I'm Joseph Chu. I'm a web developer, studying UI/UX. Welcome to my gh page!<br />
 
 <!--

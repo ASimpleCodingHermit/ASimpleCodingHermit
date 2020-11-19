@@ -1,11 +1,6 @@
-<img src="/images/download.png" />
+
 ### Hi there 👋, I'm Joseph Chu. I'm a web developer, studying UI/UX. Welcome to my gh page!<br />
-
-<!--
-**JoeChuCodes/JoeChuCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<img src="/images/download.png" />
 
 🔭 I’m currently working on Composite CSS Framework.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
@@ -27,3 +22,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 ⚡ Fun fact:<br>
 🖉 I'm also an artist that does 2D and 3D art.
+
+<!--
+**JoeChuCodes/JoeChuCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->

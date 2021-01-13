@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Joseph Chu. I'm a web developer, studying UI/UX. Welcome to my gh page!<br />
 
-<img src="/images/download.png" />
-
 🔭 _Currently working on_: Composite CSS Framework.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 🌱 _Currently learning_: UI/UX, ReactJS.

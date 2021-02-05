@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Joseph Chu. I'm a web developer, studying UI/UX. Welcome to my gh page!<br />
+### Hi there 👋, I'm Joseph Chu. I'm a web developer, studying UI/UX. Welcome to my side of the world!<br />
 
 🔭 _Currently working on_: Composite CSS Framework.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-🌱 _Currently learning_: UI/UX, ReactJS.
+🌱 _Currently learning_: UI/UX, ReactJS, Python/Flask.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 👯 _Looking to collaborate on_: Front End projects.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  

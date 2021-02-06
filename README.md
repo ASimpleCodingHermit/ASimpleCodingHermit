@@ -12,9 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 📫 _How to reach me_:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-[Email](jchucodes@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Twitter](https://twitter.com/hermit_code)
+[Email](hotcupofjoe2013@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/joseph-chu/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  

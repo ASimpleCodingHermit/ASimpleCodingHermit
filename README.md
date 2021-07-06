@@ -1,20 +1,18 @@
-### Hi there 👋, I'm Joseph Chu. I'm a web developer, studying UI/UX. Welcome to my side of the world!<br />
+### Hi there 👋, I'm Joseph. I'm a Web Developer, studying Game Design. Welcome to my side of the world!<br />
 
-🔭 _Currently working on_: Composite CSS Framework.
+🔭 _Currently working on_: Game Design.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-🌱 _Currently learning_: UI/UX, ReactJS, Python/Flask.
+🌱 _Currently learning_: C#, Unity, 2D Game Design.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-👯 _Looking to collaborate on_: Front End projects.
+👯 _Looking to collaborate on_: C# projects.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-🤔 _Looking for help_: ExpressJS and to find my first Front End Developer Job.
+🤔 _Looking for help_: 2d Platform Game Design.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 💬 _Ask me about_: creating a portfolio, Front End Development.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 📫 _How to reach me_:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 [Email](hotcupofjoe2013@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/joseph-chu/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 😄 _Pronouns_: He/Him <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
